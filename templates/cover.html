@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
+</head>
+
+<body>
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="container">
+
+          <div class="inner cover">
+            <h1 class="cover-heading">Secure password generator</h1>
+            <p class="lead">Generate a secure password with 3 words, and random numbers and separators placed at random positions.</p>
+<!--             <p class="lead">You can refresh the page or click the button below to generate a new password.</p> -->
+            <p class="lead">
+              <a href="." class="btn btn-lg btn-default">Click to generate secure password</a>
+            </p>
+            <p class="generated-pw">{{pw}}</p>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+</body>
