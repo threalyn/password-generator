@@ -8,4 +8,4 @@ def home():
 	return render_template("cover.html", pw=pwgenerator.generate()) 
 
 if __name__ == "__main__":
-	app.run()
+	app.run(host="0.0.0.0")
