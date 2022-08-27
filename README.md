@@ -5,7 +5,8 @@ A minimalistic website to generate a secure password with 3 words, random number
 
 
 ## Technologies used
-- Python
 - HTML
 - CSS
+- Python
+- Flask
 - Hosted on Heroku
