@@ -4,6 +4,8 @@ A minimalistic website to generate a secure password with 3 words, random number
 
 Generate a secure password at https://securepasswordgen.herokuapp.com/!
 
+<img src="/readme/Screenshot.png" align="center" width="1000">
+
 ## Technologies used
 - HTML
 - CSS
