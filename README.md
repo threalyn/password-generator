@@ -4,7 +4,7 @@ A minimalistic website to generate a secure password with 3 words, random number
 
 Generate a secure password at https://securepasswordgen.herokuapp.com/!
 
-Update December 20222: In the process of redeploying to Replit.
+Update December 2022: In the process of redeploying to Replit.
 
 <img src="/readme/Screenshot.png" align="center">
 
